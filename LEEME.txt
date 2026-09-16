@@ -1,0 +1,6 @@
+PÁGINA DE VENDAS — 100 RECETAS SALUDABLES (ENSALADAS)
+
+1. Abra index.html para visualizar.
+2. Checkout configurado: https://pay.hotmart.com/L107629795R
+3. Para publicar na Vercel, envie todos os arquivos mantendo a pasta assets.
+4. Página responsiva, otimizada para celular.
