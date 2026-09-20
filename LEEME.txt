@@ -1,0 +1,16 @@
+100 RECETAS DULCES FIT - PÁGINA DE VENTA
+
+1. Extrae el ZIP completo.
+2. Abre index.html en un navegador.
+3. Para publicarla, sube index.html, styles.css, script.js y la carpeta assets al mismo directorio de tu alojamiento.
+
+Contenido y enlaces: index.html
+Colores, tipografía y diseño adaptable: styles.css
+Carrusel táctil y navegación por teclado: script.js
+Imágenes: assets/
+
+Los botones de compra conservan los checkouts originales:
+- 100 recetas dulces: https://pay.hotmart.com/U107628397Y
+- Pack de 200 recetas: https://pay.hotmart.com/H107643923G
+La página no requiere instalación ni compilación.
+La página muestra 5,99 € para el producto de 100 recetas. El precio final se confirma en Hotmart.
