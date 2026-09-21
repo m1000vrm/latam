@@ -1,0 +1,16 @@
+PÁGINA 100 / 200 RECEITAS — VERSÃO MELHORADA
+
+Extraia o ZIP e envie index.html, styles.css, script.js e a pasta assets para o mesmo projeto na Vercel. Os arquivos estão na raiz do ZIP.
+
+Pixel preservado integralmente: 2205474556685612 (PageView).
+Checkouts preservados:
+100 doces: https://pay.hotmart.com/U107628397Y
+200 receitas: https://pay.hotmart.com/H107643923G
+
+Preços-base consultados em 21/09/2026: EUR 5,99 e EUR 7,90. A Hotmart calcula valor final e moeda local. Atualize os textos do HTML se mudar os preços.
+
+Melhorias: CTA antes da capa; oferta de 100 antes do upgrade; comparação de preços; imagem do pacote em WebP; amostras ampliáveis; leitura e espaçamento ajustados.
+
+Verificações: igualdade do pixel e dos destinos dos checkouts, integridade de arquivos e âncoras, sintaxe do JavaScript. A renderização visual em navegador não foi validada neste ambiente.
+
+Nenhuma alteração foi publicada automaticamente na Vercel. Não foram inventados contato de suporte, garantia ou depoimentos.
